@@ -1,0 +1,8 @@
+{
+  "name": "Scheduler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6596969b"
+}
